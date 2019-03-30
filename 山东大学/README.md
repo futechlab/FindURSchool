@@ -2,6 +2,7 @@
 | 学校详情| |
 | - | - | 
 | 学校编码 | 10422 |
+| 英文名称 | Shandong University |
 | 学校官网 | www.sdu.edu.cn |
 | 研究生院 | www.yz.sdu.edu.cn |
 | 信息整理 | [kamino](https://imea.me) |

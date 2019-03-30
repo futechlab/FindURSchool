@@ -1,6 +1,7 @@
 # 山东理工大学
 | 学校详情| |
 | - | - | 
+| 英文名称 | Shandong University of Technology |
 | 学校编码 | 10433 |
 | 学校官网 | www.sdut.edu.cn |
 | 研究生院 | yjsh.sdut.edu.cn |
