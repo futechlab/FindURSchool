@@ -11,3 +11,4 @@
 | - | - |
 | [南京大学2019年硕士研究生招生目录（含推免）.pdf](南京大学2019年硕士研究生招生目录（含推免）.pdf) | http://grawww.nju.edu.cn/912/list.htm |
 | [南京大学2019年硕士研究生招生简章.pdf](南京大学2019年硕士研究生招生简章.pdf) | http://grawww.nju.edu.cn/912/list.htm |
+| [南京大学2019年硕士研究生复试基本分数线.md](南京大学2019年硕士研究生复试基本分数线.md) | http://grawww.nju.edu.cn/ed/af/c910a322991/page.htm |
