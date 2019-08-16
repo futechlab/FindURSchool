@@ -6,6 +6,7 @@
 | - | - | - | - |
 | 1101 | 南京大学 | www.nju.edu.cn | [查看](南京大学/README.md) |
 | 10003 | 清华大学 | www.tsinghua.edu.cn | [查看](清华大学/README.md) |
+| 10346 | 杭州师范大学 | www.hznu.edu.cn | [查看](杭州师范大学/README.md) |
 | 10422 | 山东大学 | www.sdu.edu.cn | [查看](山东大学/README.md) |
 | 10433 | 山东理工大学 | www.sdut.edu.cn | [查看](山东理工大学/README.md) |
 
